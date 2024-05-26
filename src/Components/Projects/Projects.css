@@ -63,3 +63,35 @@
     
 
 }
+
+@media(max-width:768px){
+    .projects{
+        gap: 50px;
+        margin: 50px;
+        align-items: start;
+    }
+    .projects-titel h1{
+        padding: 0;
+        font-size: 50px;
+        font-weight: 600;
+    }
+    .projects-titel img{
+        width: 130px;
+        margin-right: ;: -20px;
+    }
+    .projects-container{
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+    .projects-container img{
+        width: 100%;
+        height: 100%;
+    }
+    .projects-showmore{
+        padding: 20px 40px;
+        font-size: 18px;
+        margin: 50px auto;
+        cursor: pointer;
+
+    }
+}

@@ -7,17 +7,19 @@ const mywork_data = [
         w_no:1,
         w_name:"Mine Machinery Predictive Maintenance",
         w_img:project1_img
+       
     },
     {
         w_no:2,
         w_name:"Single Image Super-Resolution using GAN",
         w_img:project2_img
+        
     },
     {
         w_no:3,
         w_name:"Talent Search | Django based Job Porta",
         w_img:a
-    },
+    }
   
 ]
  

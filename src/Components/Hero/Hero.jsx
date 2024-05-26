@@ -21,7 +21,7 @@ const hero = () => {
         Connect with me
       </ScrollLink>
     </div>
-        <div className="hero-resume">My Resume</div>
+        <div className="hero-resume"> <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">My Resume</a> </div>
       </div>
     </div>
   )
